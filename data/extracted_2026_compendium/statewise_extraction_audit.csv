@@ -1,0 +1,37 @@
+state,original_state_label,pdf_page,printed_page,domestic_visits_2024,foreign_visits_2024,domestic_visits_2025,foreign_visits_2025,extraction_method
+Andaman & Nicobar Islands,Andaman & Nicobar,94,82,710397,11497,802017,10849,PyMuPDF text layout / numeric tokens
+Andhra Pradesh,Andhra Pradesh ®,94,82,287334995,176916,353899146,214584,PyMuPDF text layout / numeric tokens
+Arunachal Pradesh,Arunachal Pradesh,94,82,869912,4714,913383,4582,PyMuPDF text layout / numeric tokens
+Assam,Assam,94,82,7608169,27170,9055943,33858,PyMuPDF text layout / numeric tokens
+Bihar,Bihar,94,82,65463304,736720,65468527,743888,PyMuPDF text layout / numeric tokens
+Chandigarh,Chandigarh,94,82,998605,39058,1183503,39502,PyMuPDF text layout / numeric tokens
+Chhattisgarh,Chhattisgarh,94,82,31487900,3485,31877925,1516,PyMuPDF text layout / numeric tokens
+Dadra Nagar Haveli & Daman & Diu,Dadra Nagar Haveli &,94,82,1358901,2626,4551903,9083,PyMuPDF text layout / numeric tokens
+Delhi,Delhi2,94,82,46257000,1999410,67308561,2431882,PyMuPDF text layout / numeric tokens
+Goa,Goa,94,82,9941286,467911,10314548,551272,PyMuPDF text layout / numeric tokens
+Gujarat,Gujarat,94,82,184014075,2274477,220426104,2339604,PyMuPDF text layout / numeric tokens
+Haryana,Haryana,94,82,1892251,1265,1617158,1010,PyMuPDF text layout / numeric tokens
+Himachal Pradesh,Himachal Pradesh,94,82,18041929,82765,14411327,84828,PyMuPDF text layout / numeric tokens
+Jammu & Kashmir,Jammu & Kashmir,95,83,23012707,65452,17728980,36410,PyMuPDF text layout / numeric tokens
+Jharkhand,Jharkhand,95,83,54040789,45273,57904062,15631,PyMuPDF text layout / numeric tokens
+Karnataka,Karnataka,95,83,304563569,485204,320536244,421576,PyMuPDF text layout / numeric tokens
+Kerala,Kerala,95,83,22246989,738374,25066366,821999,PyMuPDF text layout / numeric tokens
+Lakshadweep,Lakshadweep,95,83,67430,898,53357,517,PyMuPDF text layout / numeric tokens
+Madhya Pradesh,Madhya Pradesh,95,83,133176410,167535,139596049,181743,PyMuPDF text layout / numeric tokens
+Maharashtra,Maharashtra2,95,83,189371541,3705170,275554929,4506598,PyMuPDF text layout / numeric tokens
+Manipur,Manipur,95,83,29102,2518,25281,2892,PyMuPDF text layout / numeric tokens
+Meghalaya,Meghalaya,95,83,1585535,23075,1848239,7116,PyMuPDF text layout / numeric tokens
+Mizoram,Mizoram,95,83,421888,5414,828223,11484,PyMuPDF text layout / numeric tokens
+Nagaland,Nagaland,95,83,125516,5623,127428,5425,PyMuPDF text layout / numeric tokens
+Odisha,Odisha,95,83,10998819,53392,12797919,62115,PyMuPDF text layout / numeric tokens
+Puducherry,Puducherry,95,83,2119792,17819,2323617,28871,PyMuPDF text layout / numeric tokens
+Punjab,Punjab,95,83,27745183,541784,33245623,162541,PyMuPDF text layout / numeric tokens
+Rajasthan,Rajasthan,95,83,230084198,2072407,252503432,1945068,PyMuPDF text layout / numeric tokens
+Sikkim,Sikkim,95,83,1540421,84820,1654838,68992,PyMuPDF text layout / numeric tokens
+Tamil Nadu,Tamil Nadu,95,83,306842014,1161302,362883287,1687465,PyMuPDF text layout / numeric tokens
+Tripura,Tripura,95,83,600651,90824,681103,27320,PyMuPDF text layout / numeric tokens
+Telangana,Telengana,95,83,88239675,155313,84884316,171812,PyMuPDF text layout / numeric tokens
+Uttar Pradesh,Uttar Pradesh5,95,83,646807146,2269067,1557423503,4508023,PyMuPDF text layout / numeric tokens
+Uttarakhand,Uttarakhand,95,83,60849060,139375,61411411,158390,PyMuPDF text layout / numeric tokens
+West Bengal,West Bengal,95,83,184475527,3124462,294318520,3996141,PyMuPDF text layout / numeric tokens
+Ladakh,Ladakh,95,83,336682,39704,303838,32034,PyMuPDF text layout / numeric tokens

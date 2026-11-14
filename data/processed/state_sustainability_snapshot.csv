@@ -1,0 +1,37 @@
+﻿state,tourism_year,domestic_visits,foreign_visits,total_visits,foreign_share_pct,domestic_growth_2023_2024_pct,forest_assessment_year,forest_cover_sq_km,groundwater_assessment_year,groundwater_resource_bcm,groundwater_extraction_bcm,groundwater_extraction_pct,sdg_assessment_year,sdg_score,completeness_count,data_caveat
+Andaman & Nicobar Islands,2024,710000,11000,721000,1.5257,121.875,2023,6733.0,2024,0.34,0.01,2.08,2023,70.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Andhra Pradesh,2024,290270000,262000,290532000,0.0902,13.961,2023,30085.0,2024,26.41,7.88,29.83,2023,74.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Arunachal Pradesh,2024,870000,5000,875000,0.5714,-16.3462,2023,65882.0,2024,3.46,0.01,0.39,2023,65.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Assam,2024,7610000,27000,7637000,0.3535,0.0,2023,28314.0,2024,20.89,2.64,12.61,2023,65.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Bihar,2024,65460000,737000,66197000,1.1133,-19.7696,2023,7532.0,2024,30.95,14.1,45.54,2023,57.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Chandigarh,2024,1000000,39000,1039000,3.7536,170.2703,2023,25.0,2024,0.05,0.03,66.13,2023,77.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Chhattisgarh,2024,31490000,3000,31493000,0.0095,21.0223,2023,55812.0,2024,12.93,6.12,47.32,2023,67.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Dadra & Nagar Haveli and Daman & Diu,2024,1360000,3000,1363000,0.2201,36.0,,,,,,,,,2,Different indicator years; boundary changes/estimated 2024 visits require review
+Delhi,2024,46260000,1999000,48259000,4.1422,17.3516,2023,195.0,2024,0.34,0.34,100.77,2023,70.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Goa,2024,9940000,468000,10408000,4.4965,21.5159,2023,2266.0,2024,0.31,0.07,22.91,2023,77.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Gujarat,2024,184010000,2274000,186284000,1.2207,3.3358,2023,15017.0,2024,25.58,13.86,54.21,2023,74.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Haryana,2024,1890000,1000,1891000,0.0529,-5.9701,2023,1614.0,2024,9.36,12.72,135.96,2023,72.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Himachal Pradesh,2024,18040000,83000,18123000,0.458,13.1744,2023,15580.0,2024,1.01,0.36,35.48,2023,77.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Jammu and Kashmir,2024,23010000,65000,23075000,0.2817,11.2669,2023,21346.0,2024,2.3,0.51,22.28,2023,74.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Jharkhand,2024,54040000,45000,54085000,0.0832,51.0341,2023,23766.0,2024,5.76,1.81,31.43,2023,62.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Karnataka,2024,304560000,485000,305045000,0.159,7.1941,2023,39254.0,2024,16.88,11.55,68.44,2023,75.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Kerala,2024,22250000,738000,22988000,3.2104,1.7375,2023,22059.0,2024,5.13,2.76,53.78,2023,79.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Ladakh,2024,340000,39700,379700,10.4556,-30.6122,2023,2286.0,2024,0.06,0.02,30.93,2023,65.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Lakshadweep,2024,70000,1000,71000,1.4085,40.0,2023,27.0,2024,0.01,0.0,61.32,2023,66.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Madhya Pradesh,2024,133180000,168000,133348000,0.126,18.9638,2023,77073.0,2024,33.99,19.85,58.4,2023,67.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Maharashtra,2024,189370000,3705000,193075000,1.9189,17.3587,2023,50859.0,2024,31.15,16.5,52.99,2023,73.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Manipur,2024,30000,3000,33000,9.0909,-50.0,2023,16585.0,2024,0.47,0.04,8.0,2023,72.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Meghalaya,2024,1590000,23000,1613000,1.4259,13.5714,2023,16967.0,2024,1.53,0.07,4.6,2023,63.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Mizoram,2024,420000,5000,425000,1.1765,100.0,2023,17990.0,2024,0.19,0.01,3.95,2023,72.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Nagaland,2024,130000,6000,136000,4.4118,30.0,2023,12222.0,2024,0.56,0.03,4.72,2023,63.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Odisha,2024,11000000,87900,11087900,0.7928,13.0524,2023,52434.0,2024,16.04,7.74,48.23,2023,66.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Puducherry,2024,2120000,18000,2138000,0.8419,1.4354,2023,44.0,2024,0.17,0.13,75.91,2023,74.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Punjab,2024,27750000,542000,28292000,1.9157,-22.2907,2023,1846.0,2024,17.63,27.66,156.87,2023,76.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Rajasthan,2024,230080000,2072000,232152000,0.8925,28.5004,2023,16548.0,2024,11.37,17.05,149.86,2023,67.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Sikkim,2024,1540000,85000,1625000,5.2308,16.6667,2023,3358.0,2024,0.22,0.01,5.85,2023,76.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Tamil Nadu,2024,306840000,1161000,308001000,0.3769,7.283,2023,26450.0,2024,19.46,14.45,74.26,2023,78.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Telangana,2024,88240000,155000,88395000,0.1753,50.9666,2023,21179.0,2024,18.44,8.47,45.91,2023,74.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Tripura,2024,600000,91000,691000,13.1693,62.1622,2023,7585.0,2024,1.18,0.11,9.48,2023,71.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Uttar Pradesh,2024,646810000,2269000,649079000,0.3496,35.166,2023,15046.0,2024,66.38,46.76,70.45,2023,67.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+Uttarakhand,2024,60850000,139000,60989000,0.2279,5.6974,2023,24304.0,2024,1.96,1.05,53.54,2023,79.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
+West Bengal,2024,184480000,3124000,187604000,1.6652,26.6424,2023,16832.0,2024,23.56,10.75,45.63,2023,70.0,5,Different indicator years; boundary changes/estimated 2024 visits require review
