@@ -40,7 +40,7 @@ def prepare_comparison(tourism, snapshot, states, year):
 
 
 def render_state_comparison():
-    st.title('⚖️ State Comparison Studio')
+    st.title('State Comparison Studio')
     st.caption('Compare reported tourist visits and contextual sustainability indicators across Indian States and UTs.')
     st.info('Tourism data and environmental indicators are from different reference years. Forest cover is an **area**, not forest density; groundwater extraction is state-wide, not tourism-attributable. No carrying capacity or environmental causality is inferred.')
     try:

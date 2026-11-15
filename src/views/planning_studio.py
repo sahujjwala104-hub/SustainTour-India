@@ -63,8 +63,8 @@ def chart_style(fig, height=420):
 
 
 def render_planning_studio():
-    st.title('🗺️ Sustainable Planning Studio')
-    st.caption('Task 6 · Interactive, hypothetical tourism demand redistribution across Indian States and UTs')
+    st.title('Sustainable Planning Studio')
+    st.caption('Explore how changes in tourism demand could affect the distribution of visits across states.')
     st.info('**Scenario, not forecast:** This tool reallocates reported domestic tourist visits mathematically. It does not model actual traveler decisions, destination capacity, carbon emissions, infrastructure, or environmental impacts. No destination is assumed able to absorb the simulated demand.')
     try:
         data = load_tourism_data().copy()

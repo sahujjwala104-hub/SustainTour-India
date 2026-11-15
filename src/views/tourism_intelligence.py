@@ -59,7 +59,7 @@ def render_tourism_intelligence():
     st.markdown("""
     <div style="margin-bottom: 1.5rem;">
         <h1 style="font-size: 2rem; font-weight: 800; color: #0F172A; margin-bottom: 0.25rem;">
-            ✈️ Tourism Intelligence Dashboard
+             Tourism Intelligence Dashboard
         </h1>
         <p style="color: #64748B; font-size: 1rem; margin: 0;">
             Comprehensive empirical analytics, spatial mapping, and longitudinal dynamics across India's 36 States and Union Territories (2011–2025).
@@ -79,7 +79,7 @@ def render_tourism_intelligence():
         
     with ctrl_col2:
         metric_choice = st.selectbox(
-            "📊 Primary Analysis Metric",
+            "Primary Analysis Metric",
             options=[
                 ("domestic_visits", "Domestic Tourist Visits (DTV)"),
                 ("foreign_visits", "Foreign Tourist Visits (FTV)"),
@@ -193,7 +193,7 @@ def render_tourism_intelligence():
     # SECTION B: Interactive India Tourism Map
     # -------------------------------------------------------------------------
     st.markdown(f"""
-    <div class="section-title">🗺️ Geographic Distribution — India Tourism Map ({selected_year})</div>
+    <div class="section-title">Geographic Distribution — India Tourism Map ({selected_year})</div>
     <div class="section-desc">Interactive state-level choropleth rendering spatial footfall patterns across India. Hover over any polygon to inspect visits, growth, and official status caveats.</div>
     """, unsafe_allow_html=True)
     
@@ -205,7 +205,7 @@ def render_tourism_intelligence():
     # SECTION C: Tourism Rankings (Top 10 & Bottom 10)
     # -------------------------------------------------------------------------
     st.markdown(f"""
-    <div class="section-title">🏆 State Rankings ({selected_year})</div>
+    <div class="section-title">State Rankings ({selected_year})</div>
     <div class="section-desc">Comparative leaderboards identifying high-volume hubs and low-volume destinations for {metric_choice.replace('_', ' ').title()}.</div>
     """, unsafe_allow_html=True)
     
@@ -272,13 +272,13 @@ def render_tourism_intelligence():
     # SECTION D: Historical Tourism Trends (2011–2025)
     # -------------------------------------------------------------------------
     st.markdown("""
-    <div class="section-title">📈 Longitudinal Tourism Trends (2011–2025)</div>
+    <div class="section-title">Longitudinal Tourism Trends (2011–2025)</div>
     <div class="section-desc">Multi-year trajectory analysis covering national expansion, pandemic contraction (2020), subsequent recovery, and state-level comparative dynamics.</div>
     """, unsafe_allow_html=True)
     
     trend_tab1, trend_tab2, trend_tab3, trend_tab4 = st.tabs([
         "🇮🇳 All-India National Trajectory",
-        "📊 National YoY Growth Dynamics",
+        "National Year-on-Year Growth",
         "🏛️ State-Specific Deep Dive",
         "⚖️ Multi-State Comparison"
     ])
@@ -335,7 +335,7 @@ def render_tourism_intelligence():
     # SECTION E: Tourism Anomaly Detection
     # -------------------------------------------------------------------------
     st.markdown("""
-    <div class="section-title">🔍 Tourism Anomaly Detection Engine</div>
+    <div class="section-title">Tourism Anomaly Detection</div>
     <div class="section-desc">Defensible, explainable statistical anomaly detection based on robust Median Absolute Deviation (MAD) of year-on-year growth and verified historical event flags.</div>
     """, unsafe_allow_html=True)
     
@@ -388,7 +388,7 @@ def render_tourism_intelligence():
     # SECTION F: Data Quality, Integrity & Transparency Disclosures
     # -------------------------------------------------------------------------
     st.markdown("""
-    <div class="section-title">🛡️ Data Quality, Governance & Provenance Disclosures</div>
+    <div class="section-title">Data Quality and Sources</div>
     <div class="section-desc">Transparent documentation of official definitions, estimation flags, boundary adjustments, and data source citations.</div>
     """, unsafe_allow_html=True)
     

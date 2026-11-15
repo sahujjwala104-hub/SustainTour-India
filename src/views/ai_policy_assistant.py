@@ -126,8 +126,8 @@ def generate(question, hits, numeric, api_key, model):
 
 
 def render_ai_policy_assistant():
-    st.title('✦ Policy Intelligence · RAG Assistant')
-    st.caption('Tasks 7–8 · Source-grounded PDF retrieval + Gemini answer generation')
+    st.title('Tourism Policy Assistant')
+    st.caption('Ask questions about tourism policies and explore answers supported by source documents.')
     chunks, notices = load_chunks()
     df = load_tourism()
     a,b,c = st.columns(3)

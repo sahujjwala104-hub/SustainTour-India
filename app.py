@@ -48,8 +48,6 @@ with st.sidebar:
         Forest · Groundwater · SDG<br>
         <b>Sources</b><br>
         MoT · RBI · FSI · CGWB · NITI Aayog<br>
-        <b>Project</b><br>
-        B.Tech CSE (Data Science) · 2026
     </div>
     """, unsafe_allow_html=True)
 
@@ -71,8 +69,5 @@ else:
 st.markdown("""
 <div class="app-footer">
     <b>SustainTour India</b> &nbsp;·&nbsp; Data-Driven Sustainable Tourism Planning and Visualization<br>
-    B.Tech Computer Science &amp; Engineering (Data Science) Minor Project &nbsp;·&nbsp; Academic Year 2026<br>
-    Data Sources: Ministry of Tourism (MoT) · Reserve Bank of India (RBI) · Forest Survey of India (FSI) ·
-    Central Ground Water Board (CGWB) · NITI Aayog SDG India Index
 </div>
 """, unsafe_allow_html=True)

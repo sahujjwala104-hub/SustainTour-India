@@ -75,7 +75,7 @@ def build_features(df):
 
 
 def render_ml_intelligence():
-    st.title('🧠 Machine Learning Intelligence')
+    st.title('Machine Learning Intelligence')
     st.caption('State-level tourism forecasting, historical backtesting and unsupervised tourism-profile clustering.')
     st.info('These are exploratory statistical models of **reported tourist visits**, not unique people, carrying capacity, environmental impact or guaranteed future demand. The short annual histories and exceptional pandemic/event years limit predictive reliability.')
     try:

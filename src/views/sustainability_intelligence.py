@@ -44,7 +44,7 @@ def _latest_frame():
 
 
 def render_sustainability_intelligence():
-    st.title('🌿 Sustainability Intelligence')
+    st.title('Sustainability Intelligence')
     st.caption('Tourism demand in context with forest cover, groundwater extraction and SDG performance')
     st.info('Environmental indicators are **state-level contextual measures**, not measured impacts of tourism. '
             'The source years differ: tourism 2011–2025, forest 2023, groundwater 2024 and SDG 2023. '
